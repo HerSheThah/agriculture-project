@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.image_home{
+  max-width: 100%;
+  height: 500px;
+}
